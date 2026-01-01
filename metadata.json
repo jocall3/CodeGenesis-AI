@@ -1,0 +1,5 @@
+{
+  "name": "CodeGenesis AI",
+  "description": "Enterprise-grade AI Unit Test Generator powered by Google Gemini. Features multi-model orchestration, deep code analysis, and automated test suite creation.",
+  "requestFramePermissions": []
+}
